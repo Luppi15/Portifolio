@@ -1,0 +1,21 @@
+{
+  "name": "My PWA App",
+  "short_name": "PWA App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "A Progressive Web App that resembles a mobile application.",
+  "icons": [
+    {
+      "src": "files/elemento--1.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "files/elemento--2.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ]
+}
