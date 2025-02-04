@@ -5,7 +5,6 @@ self.addEventListener('install', (event) => {
                 '/',
                 '/index.html',
                 '/app.js',
-                '/styles.css',
                 '/manifest.json',
                 // Add any other assets you want to cache
             ]);

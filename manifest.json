@@ -5,7 +5,7 @@
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
-  "description": "A Progressive Web App that resembles a mobile application.",
+  "description": "Meu portfolio.",
   "icons": [
     {
       "src": "files/elemento--1.jpg",

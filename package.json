@@ -1,5 +1,5 @@
 {
-  "name": "my-pwa-app",
+  "name": "portfolio",
   "version": "1.0.0",
   "description": "A Progressive Web App that resembles a mobile application.",
   "main": "app.js",
@@ -14,15 +14,9 @@
     "web",
     "application"
   ],
-  "author": "Your Name",
+  "author": "Luppi15",
   "license": "MIT",
   "dependencies": {
     "live-server": "^1.2.1"
-  },
-  "devDependencies": {},
-  "homepage": "https://yourhomepage.com",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/yourusername/my-pwa-app.git"
   }
 }
