@@ -1,16 +1,7 @@
-# Portfólio com Suporte para PWA
+# Portfólio Virtual - Desenvolvedor Fullstack
 
-Este repositório contém o código-fonte do meu portfólio pessoal, que possui suporte para Progressive Web App (PWA). 
+Bem-vindo ao meu portfólio virtual! Este projeto foi desenvolvido para apresentar minhas habilidades e projetos como desenvolvedor fullstack.
 
-## Funcionalidades
+## Sobre Mim
 
-- **PWA**: O portfólio pode ser instalado como um aplicativo no seu dispositivo.
-- **Responsivo**: Layout adaptável para diferentes tamanhos de tela.
-- **Desempenho**: Otimizado para carregamento rápido e desempenho eficiente.
-
-## Tecnologias Utilizadas
-
-- HTML
-- CSS
-- JavaScript
-- Frameworks e bibliotecas adicionais conforme necessário
+Sou um desenvolvedor fullstack com experiência em diversas tecnologias e frameworks. Tenho paixão por criar soluções eficientes e inovadoras, sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
